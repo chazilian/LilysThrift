@@ -1,0 +1,15 @@
+#home{
+    content:url("../index.html");
+}
+
+#about{
+    content:url("../pages/about.html");
+}
+
+#contact{
+    content:url("../pages/contact.html");
+}
+
+#news{
+    content:url("../pages/news.html");
+}
